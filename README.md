@@ -339,6 +339,8 @@ For issues and questions:
 2. Review API documentation at `/docs`
 3. Create an issue on GitHub
 
+##Video Demo
+https://github.com/user-attachments/assets/b397cbfe-2297-494c-a85c-8dd3a8ea2fc9
 ---
 
 **Note**: This is a demonstration application. For production use, consider additional security measures, error handling, and performance optimizations.
